@@ -26,6 +26,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Creation process
+
 First step was making the remote repo and then cloning that to my local device. From there, I established my file structure to be alike that of which the class provided. With structure established, it was time to copy provided snippets and the user story/acceptance criteria. Later on, I did add more to the structure and also a generateSVG file for the sake of handling the making of a svg file based on the data gathered from user inputs.
 <br/>
 <br/>
@@ -42,9 +43,11 @@ https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker
 https://github.com/ThomasCalle/Thomas-Object-Oriented-Programming-SVG-Logo-Maker/blob/main/lib/shapes.js
 
 ## Challenges 
+
 The main challenge I encountered during this project was the writing of the tests. We spent only a day on that subject in class and with the minimal exposure and time to practice, I found myself relying heavily on examples. I found a great video to watch that covered this exact topic (listed above) and that really helped break down the blockages so I could move forward expediently. 
 
 ## Github/contact info
+
 Account: https://github.com/shyanrafer
 <br/> <br/>
 REPO: https://github.com/shyanrafer/svg-logo-maker
@@ -52,9 +55,11 @@ REPO: https://github.com/shyanrafer/svg-logo-maker
 Email: ryanshaffer1324@gmail.com (preferred method of contact)
 
 ## Installation/use guide
+
 Open your CLI, navigate to desired file destination, simply clone the repo in your desired file location, open the repo in your preferred code editor, once there - open the packages.json folder in integrated terminal, run npm install, close terminal once packs have installed, open the index.js file in your integrated terminal, run node index, fulfill prompts, after prompts have been fulfilled an svg file will be generated. 
 <br/> <br/>
 *Note* Use of same file name will overwrite pre-existing files with that name. 
 
 ## Contribution
+
 Create a feature branch and edit there. After, push up for review. 
