@@ -55,7 +55,8 @@ REPO: https://github.com/shyanrafer/svg-logo-maker
 Email: ryanshaffer1324@gmail.com (preferred method of contact)
 
 ## Installation/use guide
-
+Running program in CLI: https://drive.google.com/file/d/1db1IsYcs83uMyiBjKzjiQgWJTjmfpiMv/view
+<br/> <br/>
 Open your CLI, navigate to desired file destination, simply clone the repo in your desired file location, open the repo in your preferred code editor, once there - open the packages.json folder in integrated terminal, run npm install, close terminal once packs have installed, open the index.js file in your integrated terminal, run node index, fulfill prompts, after prompts have been fulfilled an svg file will be generated. 
 <br/> <br/>
 *Note* Use of same file name will overwrite pre-existing files with that name. 
